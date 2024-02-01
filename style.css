@@ -175,7 +175,7 @@ input[type="checkbox"]:checked::before{
   }
   
   .author {
-    color: var(--blue);
+    color: var(--dark);
     font-weight: bold;
   }
   
